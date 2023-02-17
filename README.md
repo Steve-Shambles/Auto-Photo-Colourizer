@@ -14,5 +14,7 @@ I started this project back in 2021, I have revived it and made a few tweaks but
 ![Alt Text](https://github.com/Steve-Shambles/Auto-Photo-Colourizer/blob/main/screenshot-menu-colorizing-v162.png)
 
 
+I spent a lot of time learning how to make this icon menu, was very proud I got it right at the time ;-)
+![Alt Text](https://github.com/Steve-Shambles/Auto-Photo-Colourizer/blob/main/screenshot-menu-v162.png)
 
 
