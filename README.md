@@ -9,6 +9,13 @@ https://code.naturkundemuseum.berlin/mediaspherefornature/colorize_iiif/blob/mas
 
 I have checked it downloads okay (it's very fast) and tested that it works. Add this file to the APC main dir with the other APC files.
 
+Requirements:
+pip3 install matplotlib.
+pip3 install numpy.
+pip3 install opencv-python.
+pip3 install pillow.
+
+
 I started this project back in 2021, I have revived it and made a few tweaks and I'm hoping to make more improvements over time.
 
 ![Alt Text](https://github.com/Steve-Shambles/Auto-Photo-Colourizer/blob/main/screenshot-menu-colorizing-v162.png)
