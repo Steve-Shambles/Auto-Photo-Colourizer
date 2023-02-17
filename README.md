@@ -7,7 +7,7 @@ Important Note: The 122MB file "colorization_release_v2.caffemodel" is too big t
 
 https://code.naturkundemuseum.berlin/mediaspherefornature/colorize_iiif/blob/master/experimental/model/colorization_release_v2.caffemodel
 
-I have checked it downloads okay and it's very fast. Add this file to the APC main dir with the other APC files.
+I have checked it downloads okay (it's very fast) and tested that it works. Add this file to the APC main dir with the other APC files.
 
 I started this project back in 2021, I have revived it and made a few tweaks but hoping to make more improvements over time.
 
@@ -18,3 +18,5 @@ I spent a lot of time learning how to make this icon menu, was very proud I got 
 ![Alt Text](https://github.com/Steve-Shambles/Auto-Photo-Colourizer/blob/main/screenshot-menu-v162.png)
 
 
+The AI model seems to be heavily trained for outdoor type scenes, they work best i feel.
+![Alt Text](https://github.com/Steve-Shambles/Auto-Photo-Colourizer/blob/main/screenshot-deer-colourized.png)
