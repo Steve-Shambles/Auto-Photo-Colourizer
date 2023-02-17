@@ -20,3 +20,9 @@ I spent a lot of time learning how to make this icon menu, was very proud I got 
 
 The AI model seems to be heavily trained for outdoor type scenes, they work best i feel.
 ![Alt Text](https://github.com/Steve-Shambles/Auto-Photo-Colourizer/blob/main/screenshot-deer-colourized.png)
+
+
+Written in Python 3, using Opencv and Tkinter.
+
+The A.I colourization algorithm was developed by Richard Zhang, Phillip Isola and Alexei A. Efros of Berkley University, California. 
+With thanks to those guys for sharing.
