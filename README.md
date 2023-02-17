@@ -1,5 +1,5 @@
 # Auto-Photo-Colourizer
-Colourize black and white images fast and with ease, cross platform..
+Colourize black and white images fast and with ease, cross platform, batch mode.
 
 ![Alt Text](https://github.com/Steve-Shambles/Auto-Photo-Colourizer/blob/main/screenshot-main-v162.png)
 
